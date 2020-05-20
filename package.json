@@ -1,0 +1,15 @@
+{
+  "name": "test-bot-server",
+  "version": "1.0.0",
+  "description": "server for somecompany slack bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "reutLK",
+  "license": "ISC",
+  "dependencies": {
+    "@slack/bolt": "^2.0.1",
+    "dotenv": "^8.2.0"
+  }
+}
